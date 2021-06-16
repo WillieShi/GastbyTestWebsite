@@ -6,6 +6,11 @@
 .heading {
   color: rebeccapurple;
 }
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+}
 .nav-links {
   display: flex;
   list-style: none;
